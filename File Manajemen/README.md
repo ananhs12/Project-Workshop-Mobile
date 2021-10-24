@@ -1,4 +1,4 @@
-# ManagementFile_dan_SQLite
+# ManagementFile 
 # E41202091_Nur Hasanah_TIF'C
 # 1. Management File
 ![1](https://user-images.githubusercontent.com/80672080/138544637-3903a5b7-e62d-4e94-970c-950beb58210a.PNG)
