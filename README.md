@@ -25,3 +25,11 @@ PROJECT FRAGMENT
 ![2](https://user-images.githubusercontent.com/80372457/137568086-17afb5d9-a22b-4858-8ca7-a2953198f147.jpg)
 
 ![3](https://user-images.githubusercontent.com/80372457/137568094-6464f56e-1598-42c4-bbd0-1a53367db0eb.jpg)
+
+
+
+Login dan register json api
+
+![1](https://user-images.githubusercontent.com/80372457/142895335-1340689a-9496-4d78-a439-b323b216f108.jpg)
+![2](https://user-images.githubusercontent.com/80372457/142895356-6cb29784-9e81-4e4a-8dc6-62f4f88acbcc.jpg)
+![3](https://user-images.githubusercontent.com/80372457/142895401-5bfd6e96-daed-4033-b738-54d6d539fbef.jpg)
